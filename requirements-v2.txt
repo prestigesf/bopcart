@@ -1,0 +1,5 @@
+# Additive dependency manifest for BOPCART V2
+# Does not modify any historical dependency file.
+
+pydantic>=2.0
+pytest>=7.0
